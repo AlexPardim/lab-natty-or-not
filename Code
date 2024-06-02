@@ -1,0 +1,50 @@
+# Exemplo de um chatbot para ecommerce de padaria com uso das IAs Claude 3
+
+# Função para interagir com o cliente
+def chatbot_padaria():
+    print("Bem-vindo(a) à Padaria Delícias da Manhã! Como posso ajudar?")
+    print("1. Ver o cardápio")
+    print("2. Perguntar sobre preços")
+    print("3. Formas de pagamento")
+    opcao = input("Digite o número da opção desejada: ")
+
+    if opcao == "1":
+        mostrar_cardapio()
+    elif opcao == "2":
+        perguntar_precos()
+    elif opcao == "3":
+        mostrar_formas_pagamento()
+    else:
+        print("Opção inválida. Por favor, escolha uma das opções acima.")
+
+# Função para mostrar o cardápio
+def mostrar_cardapio():
+    print("\nNosso cardápio:")
+    print("- Pão de forma integral: R$ 5.99")
+    print("- Bolo de cenoura: R$ 12.50")
+    print("- Sonho de creme: R$ 3.00")
+    print("- Rosquinha de chocolate: R$ 1.50")
+
+# Função para perguntar sobre preços
+def perguntar_precos():
+    produto = input("\nQual produto você gostaria de saber o preço? ")
+    if produto.lower() == "pão de forma integral":
+        print("O Pão de forma integral custa R$ 5.99.")
+    elif produto.lower() == "bolo de cenoura":
+        print("O Bolo de cenoura custa R$ 12.50.")
+    elif produto.lower() == "sonho de creme":
+        print("O Sonho de creme custa R$ 3.00.")
+    elif produto.lower() == "rosquinha de chocolate":
+        print("A Rosquinha de chocolate custa R$ 1.50.")
+    else:
+        print("Produto não encontrado no cardápio.")
+
+# Função para mostrar formas de pagamento
+def mostrar_formas_pagamento():
+    print("\nAceitamos as seguintes formas de pagamento:")
+    print("- Cartão de crédito")
+    print("- Dinheiro")
+    print("- Pix")
+
+# Iniciar o chatbot
+chatbot_padaria()
