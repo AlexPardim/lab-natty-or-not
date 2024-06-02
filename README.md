@@ -4,48 +4,31 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, Alex Pardim do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO tem como objetivo conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+> Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 pela plataforma da .
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto irei criar um chatbot para atendimento de um ecommerce de uma padaria.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Criei a rotina do chatbot dentro do python de forma que o mesmo interaja com o cliente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O chatbot deverá primeiramente dar uma mensagem de boas vindas com o nome do ecommerce,
+e logo após oferecer as opções de input para o cliente.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💭 Reflexão
+A autenticidade é essencial para criar algo “natty”. A IA deve gerar conteúdo que pareça natural,
+coerente e alinhado com o contexto. O desafio está em evitar respostas robóticas, clichês ou previsíveis.
+A IA precisa entender nuances, sutilezas e variações linguísticas.
+A IA deve compreender o contexto da conversa e a intenção do usuário. Isso envolve interpretar perguntas,
+emoções e nuances não explícitas. Criar algo “natty” requer mais do que apenas seguir padrões gramaticais;
+é sobre capturar a essência da comunicação humana.
+Em última análise, o desafio de criar algo “natty” com IA é uma busca contínua pela harmonia entre tecnologia e humanidade.
+À medida que avançamos, devemos lembrar que a verdadeira inteligência está na capacidade de conectar,
+inspirar e tocar as pessoas de maneira autêntica. 🌟
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
