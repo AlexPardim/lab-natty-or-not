@@ -6,13 +6,14 @@
 
 Olá pessoal, Alex Pardim do Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO tem como objetivo conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-> Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 pela plataforma da .
+## Bootcamp Nexa - Fundamentos de IA Generativa e Claude 3 pela plataforma da DIO.
 
 ## 📒 Descrição
 Neste projeto irei criar um chatbot para atendimento de um ecommerce de uma padaria.
 
 ## 🤖 Tecnologias Utilizadas
-Copilot
+Python - Bibliotecas de códigos
+Copilot - Aperfeiçoamento
 
 ## 🧐 Processo de Criação
 Criei a rotina do chatbot dentro do python de forma que o mesmo interaja com o cliente.
